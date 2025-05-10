@@ -12,7 +12,7 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/saurabhkushwaha438/chatroomserver.git
+git clone https://github.com/vaibhav108d/chatroomserver-java.git
 cd chatroom-server
 2. Compile the Code
 Navigate to the project's root directory and compile the Java files:
